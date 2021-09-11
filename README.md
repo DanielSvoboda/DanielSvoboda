@@ -40,14 +40,6 @@
 </code>
 </details>
 
-<details open style="margin-bottom:10px">
-<summary style="margin-bottom:10px" ><strong>Databases</strong></summary>
-<code>
- <a href="https://docs.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver15" target="_blank" >
-    <img  alt="SQL Server" title="SQL Server" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-</a>
- </code>
-</details>
   
   
 <details open style="margin-bottom:10px">
