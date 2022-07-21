@@ -1,10 +1,11 @@
 <h1 align="center">Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, Meu nome é Daniel Svoboda</h1>
-<h4 align="center">Bem vindo ao meu repositório, estou cursando Analise e desenvolvimento de sistemas 💻</h4>
+<h4 align="center">Bem vindo ao meu repositório!</h4>
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/DanielSvoboda/DanielSvoboda/main/code.gif?raw=true" width="478" height="270" />
 
+- 👨‍🎓 Formado em  Análise e desenvolvimento de sistemas💻
 - 💼 Atualmente trabalhando na **Iron Mountain**
-- 👨‍🎓 Graduação estimada em 07/2022 **universidade Positivo**
+
 
 
 
